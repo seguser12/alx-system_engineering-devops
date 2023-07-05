@@ -18,7 +18,7 @@ Part of ALX software Engineering learning Program.
 - What is a subnet.
 - Why IPv6 was created.
 
-###TCP/UDP
+### TCP/UDP
 - What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema).
 - What is the main difference between TCP and UDP.
 - What is a port.
